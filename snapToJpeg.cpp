@@ -5,7 +5,6 @@
 #include <vector>
 #include <algorithm>
 
-// Alias for ease of use
 namespace fs = std::filesystem;
 
 // Helper function to convert hex string to bytes
